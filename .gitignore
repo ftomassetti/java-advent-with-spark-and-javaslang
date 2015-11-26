@@ -1,1 +1,5 @@
 .gradle
+build
+java-advent-with-spark-and-javaslang.iml
+java-advent-with-spark-and-javaslang.ipr
+java-advent-with-spark-and-javaslang.iws
